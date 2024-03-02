@@ -223,3 +223,15 @@ header p {
     opacity: 0.5;
   }
 }
+
+footer{
+  text-align: center;
+}
+footer a{
+  text-decoration: none;
+  color: #00eeff;
+}
+
+footer a:hover{
+  color: white;
+}
